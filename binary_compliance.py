@@ -1,3 +1,5 @@
+# Checks if a given binary tree is a BST
+
 def check_binary_search_tree_(root):
 
     def sub_check(sub_root, left_limit=float('-inf'), right_limit=float('inf')):
