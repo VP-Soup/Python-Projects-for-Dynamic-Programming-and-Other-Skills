@@ -6,6 +6,7 @@ If that amount of money cannot be made up by any combination of the coins, retur
 You may assume that there is no duplicates in the list of coins and you have an infinite number of each kind of coin.
 """
 
+# NOTE: Failed Solution. 
 
 # time O(n), n = len(coins); space O(1)
 # note - if not given sorted coin list - need to sort making time O(nlogn)
